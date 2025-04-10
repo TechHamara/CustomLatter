@@ -43,7 +43,7 @@ developed by th using Fast.<br>A custom component for creating and animating let
 ## Demo
 
 ![MIT-App-Inventor-04-10-2025_05_16_PM](https://github.com/user-attachments/assets/d4fe1a74-c3a6-45aa-89c7-54904650a235)
-![blocks](https://github.com/user-attachments/assets/b782e027-c4ed-45e6-94ce-d0581c5494c4)
+![blocks](https://github.com/user-attachments/assets/ebaeec6e-4e84-48b5-8798-e87e1e173971)
 
 <br>
 
