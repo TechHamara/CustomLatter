@@ -11,8 +11,10 @@ developed by th using Fast.<br>A custom component for creating and animating let
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-04-10 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.3</mark></small>
-
-<br><br><br>
+<br>
+**Paid** Buy 180rs UPI<br>
+USD 2$
+<br><br>
 
 ## Blocks
 
