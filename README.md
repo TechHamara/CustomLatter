@@ -161,3 +161,7 @@ Sets the stroke color for letters
 ## Thanks
   TechHamara
   
+## Buy On PayPal
+  
+![paypal](https://github.com/user-attachments/assets/66ad4a8c-8c8f-41de-ad72-4a7a7cad8017)
+
