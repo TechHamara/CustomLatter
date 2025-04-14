@@ -16,6 +16,9 @@ developed by th using Fast.<br>A custom component for creating and animating let
 USD 2$
 <br><br>
 
+>New Update
+>Bugs fix and add new blocks
+
 ## Blocks
 
 ![GroupAnimationEnd_Event](https://github.com/user-attachments/assets/a297a305-e9e5-4bae-ad15-4d010eb3a3b9)
@@ -29,6 +32,8 @@ USD 2$
 ![Animation_Method](https://github.com/user-attachments/assets/2b64f336-bcd0-4789-97dd-9fe1ff16bff5)
 ![StartGroupAnimation_Method](https://github.com/user-attachments/assets/f49eef6a-42a3-41d2-a9f8-e8e9147f1899)
 ![SelectLetter_Method](https://github.com/user-attachments/assets/836dc84c-caac-477b-97d0-4c9175f0a8f1)
+>New
+>![Cleanup_Method](https://github.com/user-attachments/assets/48e3fc68-5554-4853-af36-7e2740a905c2)
 
 -----
 
@@ -41,6 +46,14 @@ USD 2$
 ![LetterHeight_Set_Property](https://github.com/user-attachments/assets/f7a7080c-eef4-4184-bf3e-1e1c4b468047)
 ![LegsWidth_Set_Property](https://github.com/user-attachments/assets/e037b5eb-65a5-436d-9a5a-696083c40f94)
 ![LegsColor_Set_Property](https://github.com/user-attachments/assets/c4330c1d-0270-4e22-91da-9422e6d5177f)
+>New
+>![Elevation_Set_Property](https://github.com/user-attachments/assets/5f60dd44-2c20-4392-9848-a93c355bbde6)
+>![ShadowRadius_Set_Property](https://github.com/user-attachments/assets/7a1d4797-2385-4bbb-9d32-6cf0d0769d42)
+![ShadowOffsetY_Set_Property](https://github.com/user-attachments/assets/5cabf828-74d7-4586-b812-ae273f987d16)
+![ShadowOffsetX_Set_Property](https://github.com/user-attachments/assets/597b9290-574b-4a18-9e71-1defb6fac3c1)
+![ShadowColor_Set_Property](https://github.com/user-attachments/assets/804a1913-c11a-4cdd-9b95-c01b0836fcbb)
+
+
 
 ## Demo
 
