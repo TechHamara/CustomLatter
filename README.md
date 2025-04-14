@@ -17,6 +17,7 @@ USD 2$
 <br><br>
 
 >New Update
+>V1.2
 >Bugs fix and add new blocks
 
 ## Blocks
